@@ -1,5 +1,24 @@
-Version 2.2.23 (17 July 2023)
-=============================
+Version 2.2.7 (19 Sept 2023)
+============================
+ - Merge [PR #15](https://github.com/RemoteDevForce/tom-select/pull/15)
+   - revert part of border fix - from @MatthewKennedy
+
+Version 2.2.6 (15 Sept 2023)
+============================
+ - Merge [PR #14](https://github.com/RemoteDevForce/tom-select/pull/14)
+   - Fix border issue - from @MatthewKennedy
+ - update README
+
+Version 2.2.5 (25 July 2023)
+============================
+ - correcting release process
+
+Version 2.2.4 (21 July 2023)
+============================
+ - correcting release process
+
+Version 2.2.3 (17 July 2023)
+============================
  - Merge [PR #534](https://github.com/orchidjs/tom-select/pull/534) from original repo.
    - Fix SCSS Warnings - from @MatthewKennedy
  - Merge [PR #601](https://github.com/orchidjs/tom-select/pull/601) from original repo.
