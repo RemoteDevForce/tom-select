@@ -247,7 +247,7 @@ $select-arrow-offset: calc(#{$select-padding-x} + 5px) !default;
 	}
 
 	&.form-control,
-	.form-select {
+	&.form-select {
 		.#{$select-ns}-control,
 		&.single.input-active .#{$select-ns}-control {
 			border: none !important;
