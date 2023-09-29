@@ -1,3 +1,7 @@
+Version 2.2.8 (29 Sept 2023)
+============================
+ - Correct double border issue introduced in v2.2.3 - from @craigh
+
 Version 2.2.7 (19 Sept 2023)
 ============================
  - Merge [PR #15](https://github.com/RemoteDevForce/tom-select/pull/15)
