@@ -1,4 +1,4 @@
-# ABANDONED
+# ABANDONED 7 February 2025
 
 This fork is now abandoned in favor of the original [library](https://github.com/orchidjs/tom-select) which has had several
 releases since this fork was created. Please switch back to the original. Thank you.
