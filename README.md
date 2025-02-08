@@ -1,3 +1,8 @@
+# ABANDONED
+
+This fork is now abandoned in favor of the original [library](https://github.com/orchidjs/tom-select) which has had several
+releases since this fork was created. Please switch back to the original. Thank you.
+
 # Tom Select
 
 This is a **fork** of the [original bundle](https://github.com/orchidjs/tom-select). It exists as a public service to 
